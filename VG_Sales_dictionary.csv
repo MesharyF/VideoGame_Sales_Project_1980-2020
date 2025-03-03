@@ -1,0 +1,12 @@
+﻿Field,Description
+Rank,An unique number for the property
+Name,Game Name
+Platform,Console that games availble in
+Year,Release Year of the game
+Genre,"Game Category (Action, Sports….etc)"
+Publisher,Game manufacturer or developer
+NA_Sales ($),North America Sales
+EU_Sales ($),Europe Sales
+JP_Sales ($),Japan Sales
+Other_Sales ($),Other Regions Sales
+Global_Sales ($),Grand Total of Sales
